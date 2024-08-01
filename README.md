@@ -1,5 +1,4 @@
 # LangChain RAG Chatbot Project
-![llm_picture](https://github.com/user-attachments/assets/5095124b-4712-4599-996d-41c119b860e5)
 
 
 
