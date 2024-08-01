@@ -1,4 +1,7 @@
-# LangChain RAG AI Project
+# LangChain RAG Chatbot Project
+
+![Alt text](images/llm_picture.jpg)
+
 ## Overview
 The LangChain RAG AI project is designed to assist students in answering questions based on a textbook provided by the teacher in the Algorithms and Automata class. This project leverages LangChain and Retrieval-Augmented Generation (RAG) techniques to enhance the process of answering questions by providing contextually relevant information from the book.
 
