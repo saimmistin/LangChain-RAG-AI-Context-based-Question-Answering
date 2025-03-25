@@ -1,1 +1,1 @@
-# LangChain-RAG-AI-Context-based-Question-Answering
+# LangChain-RAG-AI-Context-based-AI-Chatbot
